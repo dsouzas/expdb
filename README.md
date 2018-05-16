@@ -5,10 +5,10 @@ Our goal is to develop a relational database from scratch, exploring architectur
 
 The architecture implementation is going to be divided into the follow topics
 
-* [[Storage]]
-* [[Transactions]]
-* [[Concurrency control]]
-* [[Fail recovery]]
-* [[Security]]
-* [[Structured query language]]
-  
+* Storage
+* Transactions
+* Concurrency control
+* Fail recovery
+* Security
+* Structured query language
+ 
